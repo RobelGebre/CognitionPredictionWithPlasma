@@ -9,6 +9,7 @@
 - [Usage](#usage)
   - [1. Configuration](#1-configuration)
   - [2. Running the Pipeline](#2-running-the-pipeline)
+- [Related Projects](#related-projects)
 - [Outputs](#outputs)
 - [References](#references)
 
