@@ -15,9 +15,9 @@
 
 ## Introduction
 
-This repository contains a comprehensive machine learning pipeline developed for training regression models, evaluating feature importance, and generating SHAP (SHapley Additive exPlanations) plots for model interpretation. The pipeline was utilized in [*Your Paper Title*](link_to_paper) to analyze and interpret complex datasets effectively.
+This repository contains the mlearning pipeline developed for comparing the perforamnce of plasma biomarkers to predict long-term cognitive outcomes comapred to other biomakrers and risk factors. The pipeline was utilized in [*Accepted*](link_to_paper) to analyze and interpret complex datasets effectively.
 
-The pipeline leverages **AutoGluon** for model training, **SHAP** for interpretability, and additional custom scripts for data preprocessing and visualization. It is designed to be modular, allowing for easy customization and extension based on specific research needs.
+The pipeline leverages **AutoGluon** for model training, **SHAP** for interpretability, and additional custom scripts for data preprocessing and visualization. 
 
 ## Features
 
@@ -105,4 +105,4 @@ After running the pipeline, you can expect the following outputs:
 
 ## References
 
-* [Your Paper Title]()
+* [Paper]()
