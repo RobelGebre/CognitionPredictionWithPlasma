@@ -97,9 +97,7 @@ This will:
 
 For more detailed information on transition points and their calculation, please refer to our related project:
 
-- **[Transition Points Analysis](https://github.com/yourusername/transition-points-repo)**: This repository provides an in-depth explanation and implementation of transition points detection, including the methods used in this project. It covers the theoretical background, practical examples, and additional resources to better understand how transition points are calculated and applied in various contexts.
-
-Visit the repository to explore more about transition points and how they are integrated into machine learning models for deeper insights.
+- **[Transition Points Analysis](https://github.com/RobelGebre/TPE-for-SHAP)**: This repository provides an in-depth explanation and implementation of transition points detection. It covers the theoretical background, practical examples, and additional resources to better understand how transition points are calculated and applied in various contexts.
 
 ## Outputs
 
