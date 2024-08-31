@@ -1,4 +1,4 @@
-# Can integration of Alzheimer's plasma biomarkers with MRI, cardiovascular, genetics, and lifestyle measures improve cognition prediction?Analysis
+# Can integration of Alzheimer's plasma biomarkers with MRI, cardiovascular, genetics, and lifestyle measures improve cognition prediction?
 
 ## Table of Contents
 
@@ -76,7 +76,6 @@ model_cv.run_the_models(
     column=label,
     _impute=_impute
 )
-
 ```
 
 ### . Running the Pipeline
@@ -92,6 +91,7 @@ This will:
 * Train models with cross-validation.
 * Calculate and save feature importance.
 * Generate SHAP plots for model interpretation.
+* Calculate transition points for further interpretaion of the features. Refer to
 
 ## Outputs
 
