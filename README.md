@@ -1,5 +1,4 @@
-
-# Machine Learning Pipeline for Feature Importance and SHAP Analysis
+# Can integration of Alzheimer's plasma biomarkers with MRI, cardiovascular, genetics, and lifestyle measures improve cognition prediction?Analysis
 
 ## Table of Contents
 
@@ -17,7 +16,7 @@
 
 This repository contains the mlearning pipeline developed for comparing the perforamnce of plasma biomarkers to predict long-term cognitive outcomes comapred to other biomakrers and risk factors. The pipeline was utilized in [*Accepted*](link_to_paper) to analyze and interpret complex datasets effectively.
 
-The pipeline leverages **AutoGluon** for model training, **SHAP** for interpretability, and additional custom scripts for data preprocessing and visualization. 
+The pipeline leverages **AutoGluon** for model training, **SHAP** for interpretability, and additional custom scripts for data preprocessing and visualization.
 
 ## Features
 
@@ -79,7 +78,6 @@ model_cv.run_the_models(
 )
 
 ```
-
 
 ### . Running the Pipeline
 
