@@ -15,7 +15,7 @@
 
 ## Introduction
 
-This repository contains the mlearning pipeline developed for comparing the perforamnce of plasma biomarkers to predict long-term cognitive outcomes comapred to other biomakrers and risk factors. The pipeline was utilized in [*Accepted*](link_to_paper) to analyze and interpret complex datasets effectively.
+This repository contains the mlearning pipeline developed for comparing the perforamnce of plasma biomarkers to predict long-term cognitive outcomes comapred to other biomakrers and risk factors. The pipeline was utilized in [*Accepted- link will be availabel when online*](link_to_paper) to analyze and interpret complex datasets effectively.
 
 The pipeline leverages **AutoGluon** for model training, **SHAP** for interpretability, and additional custom scripts for data preprocessing and visualization.
 
