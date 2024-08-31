@@ -112,9 +112,9 @@ def plot_dependency_plots(shap_values_test, test_X, features, save_path):
         y_sv_filtered = data['y_sv'] 
         
         if len(np.unique(x_filtered)) >= 5 and len(x_filtered) > 10:
-            transition_points = find_and_plot_transitions(x_filtered, y_sv_filtered, predictor_variable, save_path, feature_dir, inds[i])
+            transition_points = find_and_plot_transitions(x_filtered, y_sv_filtered, predictor_variable, shap_values_test, test_X, save_path, feature_dir, inds[i])
 
-def find_and_plot_transitions(x_filtered, y_sv_filtered, predictor_variable, save_path, feature_dir, interaction_index):
+def find_and_plot_transitions(x_filtered, y_sv_filtered, predictor_variable, shap_values_test, test_X, save_path, feature_dir, interaction_index):
     slope_thresholds = [0.05]
     matching_thresholds = [0.05]
     peak_bottom_thresholds = [0.8, 0.9]
