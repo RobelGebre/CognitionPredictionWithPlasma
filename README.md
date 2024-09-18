@@ -15,7 +15,7 @@
 
 ## Introduction
 
-This repository contains the mlearning pipeline developed for comparing the perforamnce of plasma biomarkers to predict long-term cognitive outcomes comapred to other biomakrers and risk factors. The pipeline was utilized in [*Accepted- link will be availabel when online*](link_to_paper).
+This repository contains the mlearning pipeline developed for comparing the perforamnce of plasma biomarkers to predict long-term cognitive outcomes comapred to other biomakrers and risk factors. The pipeline was utilized in [*Can integration of Alzheimer’s plasma biomarkers with MRI, cardiovascular, genetics, and lifestyle measures improve cognition prediction?*]([link_to_paper](https://doi.org/10.1093/braincomms/fcae300)).
 
 The pipeline leverages **AutoGluon** for model training, **SHAP** for interpretability, and additional custom scripts for data preprocessing and visualization.
 
@@ -110,4 +110,4 @@ After running the pipeline, you can expect the following outputs:
 
 ## References
 
-* [Paper]()
+* [Paper](https://doi.org/10.1093/braincomms/fcae300)
